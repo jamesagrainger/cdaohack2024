@@ -2,7 +2,7 @@
 
 We have chosen 3 datasets to be used for the hack. Feel free to use whichever you wish!
 
-1. [Tranactional dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
+1. [Transactional dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
    - PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
    - The data is available to download from Kaggle and can be uploaded from your local win365 device.
    - Ideal for basic data analysis and building ML models to predict fraud.
