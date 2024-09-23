@@ -1,4 +1,4 @@
-# Welcome to the 2024 CDAO GCP Hackathon!
+# Welcome to the 2024 CDAO DE GCP Hackathon!
 
 This repo has been set up so you can clone it into your Stratos environment and upload the relevant datasets that you wish to use during the hack. We have 3 datasets available:
 
