@@ -1,6 +1,6 @@
 # Welcome to the 2024 CDAO DE GCP Hackathon!
 
-This repo has been set up so you can clone it into your Stratos environment and upload the relevant datasets that you wish to use during the hack. We have 3 datasets available:
+We have chosen 3 datasets to be used for the hack. Feel free to use whichever you wish!
 
 1. [Financial dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
    - PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
