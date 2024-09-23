@@ -12,7 +12,7 @@ This hackathon has been designed for in person only across all 3 sites. Please s
 - After the 3 hours are up, you will come back together and present / share what you have done
 - There will be a washup session in the coming weeks to feedback on how you found the experience, so all sites get opportunity to be connected.
 
-
+## The datasets
 We have chosen 3 datasets to be used for the hack. Feel free to use whichever you wish!
 
 1. [Transactional dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
@@ -24,3 +24,8 @@ We have chosen 3 datasets to be used for the hack. Feel free to use whichever yo
    - The data is available directly through the bigquery public datasets connector in BQ.
    - Ideal for deep dive analytics and potential to build / explore ML modelling. 
 5. [Airbnb dataset]() - TBC
+
+## Pre-requisites
+1. Have an active Stratos dev account
+2. Have installed and set up your win365 device (unless you have a mac)
+3. Have been added to your sites Stratos environment
