@@ -23,7 +23,10 @@ We have chosen 3 datasets to be used for the hack. Feel free to use whichever yo
    - TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, products, orders, logistics, web events and digital marketing campaigns. The contents of this dataset are synthetic, and are provided to industry practitioners for the purpose of product discovery, testing, and evaluation.
    - The data is available directly through the bigquery public datasets connector in BQ.
    - Ideal for deep dive analytics and potential to build / explore ML modelling. 
-5. [Airbnb dataset]() - TBC
+5. [Airbnb dataset](https://www.kaggle.com/datasets/swsw1717/seatle-airbnb-open-data-sql-project)
+   - Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
+   - The data is available to download from Kaggle and can be uploaded from your local win365 device.
+   - Ideal for data analysis and also potential for ML and sentiment analysis
 
 ## Pre-requisites
 1. Have an active Stratos dev account
