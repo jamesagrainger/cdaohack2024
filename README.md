@@ -5,8 +5,8 @@ This hackathon has been designed for in person only across all 3 sites. Please s
 - The plan is to split you all into teams (this will be done on the day) based on the dataset that you wish to play around with.
 - You will have 3 hours to experiment with the datasets, using whatever services you wish in Stratos (subject to them being enabled in the GenAI env).
 - There is no real aim to this, its more of an opportunity for each of you to get more comfortable with the GCP platform and put your learnings into practice. Whether that is:
-   - Building a pipeline to ingest, transform and model data
-   - Cleaning, transforming and analysing data
+   - Ingesting and transforming data
+   - Curating and analysing data
    - Visualising data
    - Building ML models for predictions etc.
 - After the 3 hours are up, you will come back together and present / share what you have done
